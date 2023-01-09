@@ -1,2 +1,2 @@
-# synthetic_exchange_rate
+# synthetic exchange rate datasets
 This repo containns synthetic financial datasets
