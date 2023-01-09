@@ -20,7 +20,7 @@ The synthetic financial data provided in this repo has been evaluated and valida
 
 The example notebook can be closed and used to generate more synthetic datasets especially using the TVAE model that outperformed all the other models during our experiments.
 
-## Citetation
+## Citation
 If you're using these materials for your study, please cite using
 
 @manual{
