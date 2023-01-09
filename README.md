@@ -1,4 +1,4 @@
-# Synthetic datasets for exchange rate
+# Synthetic Datasets for Exchange Rate
 This repo containns synthetic financial datasets generated using four machine learning models
 - GaussianCopula
 - CTGAN
