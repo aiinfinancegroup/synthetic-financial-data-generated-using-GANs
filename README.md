@@ -18,7 +18,7 @@ The synthetic financial data provided in this repo has been evaluated and valida
 - Stress testing
 - Forecasting the volatility of the currency returns
 
-The example notebook can be closed and used to generate more synthetic datasets especially using the TVAE model that outperformed all the other models during our experiments.
+The example notebook can be cloned and used to generate more synthetic datasets especially using the TVAE model that outperformed all the other models during our experiments.
 
 ## Citation
 If you're using these materials for your study, please cite using
