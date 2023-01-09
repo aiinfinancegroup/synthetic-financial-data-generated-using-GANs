@@ -7,6 +7,6 @@ This repo containns synthetic financial datasets generated using four machine le
 
 ## Data Cleaning
 The original data (exchange rates) was transformed to obatin the returns for reach currency returns using the relation 
-$$S_t - B_t\hspace{0.5cm} \forall t,$$ 
+$$S_t - B_t>0, \forall t,$$ 
 where $S_t$ is the selling value, $B_t$ is the buying value of the currency, and $t$ is the time.
 
