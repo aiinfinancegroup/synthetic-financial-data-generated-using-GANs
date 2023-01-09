@@ -29,6 +29,6 @@ If you're using these materials for your study, please cite using
     organization = {AI in Finance Research at Makerere University},
     year = {2023},
     month = {1},
-    url = {https://docs.sdv.dev/sdmetrics/](https://github.com/aiinfinancegroup/synthetic_exchange_rate/}
+    url = {[https://github.com/aiinfinancegroup/synthetic_exchange_rate/](https://github.com/aiinfinancegroup/synthetic_exchange_rate/)}
 }
 
